@@ -1,11 +1,11 @@
 import React from 'react';
 
-const App = () => {
+const IndexPage = () => {
     return (
         <div>
-            <h1>Welcome to the Cosmic Federation</h1>
+            <h1>Welcome to the Cosmic Federation!</h1>
         </div>
     );
 };
 
-export default App;
+export default IndexPage;
