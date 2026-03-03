@@ -1,1 +1,1 @@
-{\n  \"name\": \"cosmic-federation\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A cosmic federation project\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo 'Error: no test specified' && exit 1\"\n  },\n  \"keywords\": [],\n  \"author\": \"Subtronical\",\n  \"license\": \"ISC\"\n}
+{"name": "cosmic-federation", "version": "1.0.0", "description": "Interactive 3D space exploration", "main": "index.js", "scripts": {"test": "echo error"}, "author": "", "license": "ISC"}
